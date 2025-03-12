@@ -21,6 +21,9 @@ This is a working document -- updates to code can be pushed in real time for eas
 LLM-based cell annotation on which cluster annotations are based.
 ![](README_files/figure-html/umap_scgpt-1.png)<!-- -->
 
+Cluster annotations based on the above.
+![](README_files/figure-html/umap_labeled-1.png)<!-- -->
+
 ***
 ### UMAP plots demonstrating expression
 ![](README_files/figure-html/umap_plots-1.png)<!-- -->
