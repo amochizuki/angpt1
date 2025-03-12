@@ -17,11 +17,10 @@ This is a working document -- updates to code can be pushed in real time for eas
 
 
 
-### UMAP plot showing scGPT annotations
-LLM-based cell annotation on which cluster annotations are based.
-![](README_files/figure-html/umap_scgpt-1.png)<!-- -->
+### UMAP plot showing scGPT-based annotations
 
-Cluster annotations based on the above.
+
+Cluster annotations based on a large language model.
 ![](README_files/figure-html/umap_labeled-1.png)<!-- -->
 
 ***
