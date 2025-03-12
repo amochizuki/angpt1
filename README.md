@@ -3,13 +3,14 @@ title: "README"
 output: 
   html_document:
     keep_md: true
-  toc: true
 ---
+
+***
 # Angpt1 plots
+### Test plots for Angpt1 project
+This is a working document -- updates to code can be pushed in real time for easy viewing.
 
 
-## Data extraction
-This extracts expression and metadata from a Seurat object into a ggplot object.
 
 
 
@@ -17,12 +18,15 @@ This extracts expression and metadata from a Seurat object into a ggplot object.
 
 
 ### UMAP plot showing scGPT annotations
+LLM-based cell annotation on which cluster annotations are based.
+![](README_files/figure-html/umap_scgpt-1.png)<!-- -->
 
-
+***
 ### UMAP plots demonstrating expression
 ![](README_files/figure-html/umap_plots-1.png)<!-- -->
 
 
+***
 ### Boxplots
 All cell types
 ![](README_files/figure-html/boxplot-1.png)<!-- -->
@@ -33,6 +37,7 @@ Limited to tumor cells only
 Adding points
 ![](README_files/figure-html/boxplot_limited_dots-1.png)<!-- -->
 
+***
 ### Violin plots
 Tumor cells only
 ![](README_files/figure-html/violin-1.png)<!-- -->
