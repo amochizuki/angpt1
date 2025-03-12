@@ -32,12 +32,17 @@ Gfap is a marker used by [Filbin *et al*](https://doi.org/10.1038/s41588-022-012
 ***
 ### Boxplots
 All cell types
+
 ![](README_files/figure-html/boxplot-1.png)<!-- -->
 
+
 Limited to tumor cells only
+
 ![](README_files/figure-html/boxplot_limited-1.png)<!-- -->
 
+
 Adding points
+
 ![](README_files/figure-html/boxplot_limited_dots-1.png)<!-- -->
 
 ***
