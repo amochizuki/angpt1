@@ -25,6 +25,7 @@ Cluster annotations based on a large language model.
 
 ***
 ### UMAP plots demonstrating expression
+Gfap is a marker used by [Filbin *et al*](https://doi.org/10.1038/s41588-022-01236-3) for AC-like tumor cells.
 ![](README_files/figure-html/umap_plots-1.png)<!-- -->
 
 
