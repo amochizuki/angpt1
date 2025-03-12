@@ -48,6 +48,16 @@ Tumor cells only
 Adding points
 ![](README_files/figure-html/violin_points-1.png)<!-- -->
 
+### Density plots
+
+``` r
+g <- ggplot(exp)
+g + geom_density(aes(x = Angpt1, color = harmony_clusters_labeled, fill = harmony_clusters_labeled), alpha = 0.5) + 
+  facet_grid(harmony_clusters_labeled ~ ., scales = "free") + guides(fill = "none", color = "none") + theme_bw()
+```
+
+![](README_files/figure-html/density-1.png)<!-- -->
+
 
 ``` r
 sessionInfo()
