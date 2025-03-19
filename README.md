@@ -48,7 +48,7 @@ Gfap is a marker used by [Filbin *et al*](https://doi.org/10.1038/s41588-022-012
 
 ### Limited to tumor cells only
 
-![](README_files/figure-html/boxplot_limited-1.png)<!-- -->
+
 
 
 ### Adding points
@@ -61,7 +61,7 @@ Gfap is a marker used by [Filbin *et al*](https://doi.org/10.1038/s41588-022-012
 ![](README_files/figure-html/violin_all-1.png)<!-- -->
 
 ### Tumor cells only
-![](README_files/figure-html/violin-1.png)<!-- -->
+
 
 ### Adding points
 ![](README_files/figure-html/violin_points-1.png)<!-- -->
