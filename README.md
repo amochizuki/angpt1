@@ -21,8 +21,11 @@ This is a working document -- updates to code can be pushed in real time for eas
 ### scGPT/LLM based annotations
 ![](README_files/figure-html/umap_scgpt-1.png)<!-- -->
 
-### Annotations of Louvain clustering based on LLM labels.
+### UMAP of clusters plus UMAP of tumors
 ![](README_files/figure-html/umap_labeled-1.png)<!-- -->
+
+### UMAP of clusters by tumor type
+![](README_files/figure-html/umap_by_tumor-1.png)<!-- -->
 
 ### UMAP plots demonstrating expression
 Gfap is a marker used by [Filbin *et al*](https://doi.org/10.1038/s41588-022-01236-3) for AC-like tumor cells, Mog for oligodendrocytes.
@@ -30,6 +33,11 @@ Gfap is a marker used by [Filbin *et al*](https://doi.org/10.1038/s41588-022-012
 
 ##### Alternate color scheme
 ![](README_files/figure-html/umap_plots_alt-1.png)<!-- -->
+
+***
+## Bar plots 
+### Cell type frequency
+![](README_files/figure-html/bar_graph-1.png)<!-- -->
 
 ***
 ## Boxplots
@@ -49,6 +57,9 @@ Gfap is a marker used by [Filbin *et al*](https://doi.org/10.1038/s41588-022-012
 
 ***
 ## Violin plots
+### All cells
+![](README_files/figure-html/violin_all-1.png)<!-- -->
+
 ### Tumor cells only
 ![](README_files/figure-html/violin-1.png)<!-- -->
 
