@@ -73,6 +73,10 @@ Gfap is a marker used by [Filbin *et al*](https://doi.org/10.1038/s41588-022-012
 ![](README_files/figure-html/heatmap-1.png)<!-- -->
 
 ### By cluster
+#### Scaled
+![](README_files/figure-html/heatmap_mean_scaled-1.png)<!-- -->
+
+#### Midpoint 0
 ![](README_files/figure-html/heatmap_mean-1.png)<!-- -->
 
 ***
