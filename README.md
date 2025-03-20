@@ -19,7 +19,7 @@ This is a working document -- updates to code can be pushed in real time for eas
 
 ## UMAP plots 
 ### scGPT/LLM based annotations
-![](README_files/figure-html/umap_scgpt-1.png)<!-- -->
+
 
 ### UMAP of clusters plus UMAP of tumors
 ![](README_files/figure-html/umap_labeled-1.png)<!-- -->
@@ -68,11 +68,15 @@ Gfap is a marker used by [Filbin *et al*](https://doi.org/10.1038/s41588-022-012
 
 ***
 ## Heatmap
+### By cell
 
 ![](README_files/figure-html/heatmap-1.png)<!-- -->
+
+### By cluster
+![](README_files/figure-html/heatmap_mean-1.png)<!-- -->
 
 ***
 ## Density plots
 ![](README_files/figure-html/density-1.png)<!-- -->
 
-Built with R 4.4.2.
+Built with R 4.4.3.
