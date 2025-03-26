@@ -29,10 +29,13 @@ This is a working document -- updates to code can be pushed in real time for eas
 
 ### UMAP plots demonstrating expression
 Gfap is a marker used by [Filbin *et al*](https://doi.org/10.1038/s41588-022-01236-3) for AC-like tumor cells, Mog for oligodendrocytes.
-![](README_files/figure-html/umap_plots-1.png)<!-- -->
+
 
 ##### Alternate color scheme - use FeaturePlot color scheme
 ![](README_files/figure-html/umap_plots_alt-1.png)<!-- -->
+
+#### FeaturePlot style
+![](README_files/figure-html/feature_plot-1.png)<!-- -->
 
 ***
 ## Bar plots 
