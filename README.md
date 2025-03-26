@@ -61,7 +61,7 @@ Gfap is a marker used by [Filbin *et al*](https://doi.org/10.1038/s41588-022-012
 ***
 ## Violin plots
 ### All cells
-![](README_files/figure-html/violin_all-1.png)<!-- -->
+
 
 ### Tumor cells only
 
@@ -73,7 +73,7 @@ Gfap is a marker used by [Filbin *et al*](https://doi.org/10.1038/s41588-022-012
 ## Heatmap
 ### By cell
 
-![](README_files/figure-html/heatmap-1.png)<!-- -->
+
 
 ### By cluster
 #### Scaled - restrict to just tumor clusters for main figure; can have all for supplemental
@@ -84,6 +84,6 @@ Gfap is a marker used by [Filbin *et al*](https://doi.org/10.1038/s41588-022-012
 
 ***
 ## Density plots
-![](README_files/figure-html/density-1.png)<!-- -->
+
 
 Built with R 4.4.3.
